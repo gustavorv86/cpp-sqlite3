@@ -1,0 +1,12 @@
+[ 11%] Building C object libsqlite3/CMakeFiles/sqlite3.dir/sqlite/sqlite3.c.o
+[ 22%] Linking C shared library ../dist/Debug/lib/libsqlite3.so
+[ 22%] Built target sqlite3
+[ 33%] Building CXX object libsqlite3-cpp/CMakeFiles/sqlite3-cpp.dir/cc_sqlite3.cc.o
+[ 44%] Building CXX object libsqlite3-cpp/CMakeFiles/sqlite3-cpp.dir/cc_sqlite3_exception.cc.o
+[ 55%] Building CXX object libsqlite3-cpp/CMakeFiles/sqlite3-cpp.dir/cc_sqlite3_blob.cc.o
+[ 66%] Building CXX object libsqlite3-cpp/CMakeFiles/sqlite3-cpp.dir/cc_sqlite3_type.cc.o
+[ 77%] Linking CXX shared library ../dist/Debug/lib/libsqlite3-cpp.so
+[ 77%] Built target sqlite3-cpp
+[ 88%] Building CXX object main/CMakeFiles/sqlite3-cpp-test.dir/main.cpp.o
+[100%] Linking CXX executable ../dist/Debug/bin/sqlite3-cpp-test
+[100%] Built target sqlite3-cpp-test
